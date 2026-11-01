@@ -1,0 +1,6 @@
+{
+  "name": "Sharon Paints",
+  "description": "Sharon Paints & Chemical Co. official app: paint ordering, prices, real-time depot tracking, paint coverage calculator, AI voice consultant & tutor, and quality certifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

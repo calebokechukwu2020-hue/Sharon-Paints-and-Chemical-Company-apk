@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Outer Gold Ring -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M60,4 C90.9,4 116,29.1 116,60 C116,90.9 90.9,116 60,116 C29.1,116 4,90.9 4,60 C4,29.1 29.1,4 60,4 Z" />
+
+    <!-- Nigerian Green Outer Disc -->
+    <path
+        android:fillColor="#008753"
+        android:pathData="M60,8 C88.7,8 112,31.3 112,60 C112,88.7 88.7,112 60,112 C31.3,112 8,88.7 8,60 C8,31.3 31.3,8 60,8 Z" />
+
+    <!-- Arched Text Band in White -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M60,14 C85.4,14 106,34.6 106,60 C106,85.4 85.4,106 60,106 C34.6,106 14,85.4 14,60 C14,34.6 34.6,14 60,14 Z" />
+
+    <!-- Inner White Core Disc -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,20 C82.1,20 100,37.9 100,60 C100,82.1 82.1,100 60,100 C37.9,100 20,82.1 20,60 C20,37.9 37.9,20 60,20 Z" />
+
+    <!-- Globe Grid Lines (Latitudes & Longitudes) in Light Green/Teal -->
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M60,24 C79.9,24 96,40.1 96,60 C96,79.9 79.9,96 60,96 C40.1,96 24,79.9 24,60 C24,40.1 40.1,24 60,24 Z" />
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M24,60 L96,60" />
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M30,46 L90,46" />
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M30,74 L90,74" />
+    <path
+        android:strokeColor="#A7F3D0"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M60,24 C72,36 72,84 60,96 C48,84 48,36 60,24 Z" />
+
+    <!-- Nigerian Green Eagle in Flight Silhouette -->
+    <path
+        android:fillColor="#008753"
+        android:pathData="M60,32 C63,30 68,34 74,38 C80,42 86,40 92,43 C88,47 80,48 76,50 C72,52 68,48 64,48 C62,48 60,52 58,52 C56,52 54,48 50,48 C46,48 42,52 38,50 C34,48 26,47 22,43 C28,40 34,42 40,38 C46,34 51,30 60,32 Z" />
+
+    <!-- Green Pill Capsule Badge for "MANCAP" -->
+    <path
+        android:fillColor="#008753"
+        android:pathData="M32,60 C32,54 38,54 44,54 L76,54 C82,54 88,54 88,60 C88,66 82,66 76,66 L44,66 C38,66 32,66 32,60 Z" />
+
+    <!-- Gold Outline on Pill Badge -->
+    <path
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M32,60 C32,54 38,54 44,54 L76,54 C82,54 88,54 88,60 C88,66 82,66 76,66 L44,66 C38,66 32,66 32,60 Z" />
+
+    <!-- White Letters: M A N C A P -->
+    <!-- M -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,57 L40.5,63 L42,60 L43.5,63 L46,57 L44.5,57 L43.2,60.5 L42,58.5 L40.8,60.5 L39.5,57 Z" />
+    <!-- A -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,63 L50.5,57 L52.5,57 L55,63 L53.5,63 L53,61.5 L50,61.5 L49.5,63 Z M50.5,60.2 L52.5,60.2 L51.5,58 Z" />
+    <!-- N -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M57,63 L57,57 L58.5,57 L61.5,61.5 L61.5,57 L63,57 L63,63 L61.5,63 L58.5,58.5 L58.5,63 Z" />
+    <!-- C -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,57 C65.5,57 65,58.5 65,60 C65,61.5 65.5,63 68,63 C69.5,63 70.2,62.2 70.5,61.5 L69,61.5 C68.8,61.8 68.5,62 68,62 C66.8,62 66.5,61.2 66.5,60 C66.5,58.8 66.8,58 68,58 C68.5,58 68.8,58.2 69,58.5 L70.5,58.5 C70.2,57.8 69.5,57 68,57 Z" />
+    <!-- A -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,63 L74.5,57 L76.5,57 L79,63 L77.5,63 L77,61.5 L74,61.5 L73.5,63 Z M74.5,60.2 L76.5,60.2 L75.5,58 Z" />
+    <!-- P -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M81,63 L81,57 L84.5,57 C86,57 86.8,57.8 86.8,59 C86.8,60.2 86,61 84.5,61 L82.5,61 L82.5,63 Z M82.5,59.8 L84.2,59.8 C84.8,59.8 85.2,59.5 85.2,59 C85.2,58.5 84.8,58.2 84.2,58.2 L82.5,58.2 Z" />
+
+    <!-- Certificate Number Banner: "CT-21237" -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M36,75 L84,75 L80,85 L40,85 Z" />
+
+    <!-- Text CT-21237 cutout indicators -->
+    <path
+        android:fillColor="#008753"
+        android:pathData="M43,77 L47,77 L47,78.5 L45,78.5 L45,81.5 L47,81.5 L47,83 L43,83 Z" />
+    <path
+        android:fillColor="#008753"
+        android:pathData="M49,77 L54,77 L54,78.5 L52.2,78.5 L52.2,83 L50.8,83 L50.8,78.5 L49,78.5 Z" />
+    <path
+        android:fillColor="#008753"
+        android:pathData="M56,79.5 L58,79.5 L58,80.5 L56,80.5 Z" />
+    <path
+        android:fillColor="#008753"
+        android:pathData="M60,77 L63.5,77 L63.5,78.5 L61.5,80 L63.5,81.5 L63.5,83 L60,83 L60,81.5 L62,80 L60,78.5 Z" />
+    <path
+        android:fillColor="#008753"
+        android:pathData="M65,77 L67,77 L67,83 L65,83 Z" />
+    <path
+        android:fillColor="#008753"
+        android:pathData="M69,77 L72.5,77 L72.5,78.5 L70.5,80 L72.5,81.5 L72.5,83 L69,83 L69,81.5 L71,80 L69,78.5 Z" />
+    <path
+        android:fillColor="#008753"
+        android:pathData="M74,77 L77.5,77 L77.5,78.5 L76,79.5 L77.5,80.5 L77.5,83 L74,83 L74,81.5 L76,81.5 L76,80.5 L74.5,80.5 L74.5,79.5 L76,79.5 L76,78.5 L74,78.5 Z" />
+    <path
+        android:fillColor="#008753"
+        android:pathData="M79,77 L83,77 L81.5,83 L80,83 L81.2,78.5 L79,78.5 Z" />
+
+</vector>

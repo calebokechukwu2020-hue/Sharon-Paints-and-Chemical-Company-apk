@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Outer Black Circular Seal Ring -->
+    <path
+        android:fillColor="#111827"
+        android:pathData="M60,4 C90.9,4 116,29.1 116,60 C116,90.9 90.9,116 60,116 C29.1,116 4,90.9 4,60 C4,29.1 29.1,4 60,4 Z" />
+
+    <!-- Thin White Border Ring -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M60,8 C88.7,8 112,31.3 112,60 C112,88.7 88.7,112 60,112 C31.3,112 8,88.7 8,60 C8,31.3 31.3,8 60,8 Z" />
+
+    <!-- White Inner Disc -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,14 C85.4,14 106,34.6 106,60 C106,85.4 85.4,106 60,106 C34.6,106 14,85.4 14,60 C14,34.6 34.6,14 60,14 Z" />
+
+    <!-- Arched Header Banner: Nigerian Mark of Quality -->
+    <path
+        android:fillColor="#111827"
+        android:pathData="M24,28 C34,22 86,22 96,28 L94,36 C86,30 34,30 26,36 Z" />
+
+    <!-- Center Black Emblem Background -->
+    <path
+        android:fillColor="#111827"
+        android:pathData="M60,37 C74,37 85,48 85,62 C85,76 74,87 60,87 C46,87 35,76 35,62 C35,48 46,37 60,37 Z" />
+
+    <!-- Stylized Slatted 'N' 'I' 'S' Letters in White Cutout -->
+    <!-- 'N' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43,51 L47,51 L53,67 L53,51 L57,51 L57,73 L53,73 L47,57 L47,73 L43,73 Z" />
+    <!-- Horizontal Slats on 'N' -->
+    <path
+        android:fillColor="#111827"
+        android:pathData="M42,56 L58,56 L58,58 L42,58 Z" />
+    <path
+        android:fillColor="#111827"
+        android:pathData="M42,65 L58,65 L58,67 L42,67 Z" />
+
+    <!-- 'I' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,51 L64,51 L64,73 L60,73 Z" />
+    <path
+        android:fillColor="#111827"
+        android:pathData="M59,56 L65,56 L65,58 L59,58 Z" />
+    <path
+        android:fillColor="#111827"
+        android:pathData="M59,65 L65,65 L65,67 L59,67 Z" />
+
+    <!-- 'S' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,52 C67,50.5 69,50 71.5,50 C74.5,50 77,51.5 77,54 L73,54 C73,53 72.2,52.5 71.5,52.5 C70.8,52.5 70.2,53 70.2,54 C70.2,56.5 77.5,56 77.5,63 C77.5,67 74.5,68.5 71.5,68.5 C68,68.5 66.5,66.5 66.5,64 L70.5,64 C70.5,65.5 71.2,66 72,66 C72.8,66 73.5,65.5 73.5,64.2 C73.5,61.8 67,61.5 67,52 Z" />
+    <path
+        android:fillColor="#111827"
+        android:pathData="M66,56 L78,56 L78,58 L66,58 Z" />
+    <path
+        android:fillColor="#111827"
+        android:pathData="M66,65 L78,65 L78,67 L66,67 Z" />
+
+    <!-- Lower Certificate Text Box: "No. CT.-350" -->
+    <path
+        android:fillColor="#111827"
+        android:pathData="M32,91 L88,91 L84,101 L36,101 Z" />
+
+    <!-- Stenciled CT.-350 text indicators -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,93 L42,93 L42,95 L40,95 L40,98 L42,98 L42,99 L38,99 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,93 L49,93 L49,95 L47.5,95 L47.5,99 L45.5,99 L45.5,95 L44,95 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,95 L54,95 L54,97 L51,97 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,93 L61,93 L61,94.5 L58.5,96 L61,97.5 L61,99 L56,99 L56,97.5 L58.5,96 L56,94.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63,93 L68,93 L68,94.5 L65.5,94.5 L65.5,96 L68,96 L68,99 L63,99 L63,97.5 L66,97.5 L66,96.5 L63,96.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,93 L75,93 L75,99 L70,99 Z M72,94.5 L73,94.5 L73,97.5 L72,97.5 Z" />
+
+</vector>

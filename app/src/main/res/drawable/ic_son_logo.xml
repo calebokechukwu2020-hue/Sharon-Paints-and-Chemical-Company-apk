@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Outer Gold Ring -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M60,4 C90.9,4 116,29.1 116,60 C116,90.9 90.9,116 60,116 C29.1,116 4,90.9 4,60 C4,29.1 29.1,4 60,4 Z" />
+
+    <!-- Nigerian Green Inner Disc -->
+    <path
+        android:fillColor="#008753"
+        android:pathData="M60,8 C88.7,8 112,31.3 112,60 C112,88.7 88.7,112 60,112 C31.3,112 8,88.7 8,60 C8,31.3 31.3,8 60,8 Z" />
+
+    <!-- Thin Concentric Gold Accent Ring -->
+    <path
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M60,14 C85.4,14 106,34.6 106,60 C106,85.4 85.4,106 60,106 C34.6,106 14,85.4 14,60 C14,34.6 34.6,14 60,14 Z" />
+
+    <!-- Upper Arched White Banner for "STANDARDS ORGANISATION OF NIGERIA" -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1"
+        android:fillColor="#00000000"
+        android:pathData="M24,42 C32,24 88,24 96,42" />
+
+    <!-- Nigerian Coat of Arms in Upper Center -->
+    <!-- Red Eagle Crest -->
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M60,22 C61.5,19 63,20 64,22 C65,21 66,23 64,24 C62,25 58,25 56,24 C54,23 55,21 56,22 C57,20 58.5,19 60,22 Z" />
+
+    <!-- Green & White Wreath below eagle -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,24.5 L66,24.5 L65,26 L55,26 Z" />
+
+    <!-- Black Shield with White 'Y' Pall (River Niger & Benue confluence) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,27 L66,27 L66,35 C66,39 60,43 60,43 C60,43 54,39 54,35 Z" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M56,28 L60,33 L64,28 M60,33 L60,41" />
+
+    <!-- Two White Supporter Horses (Left & Right) -->
+    <!-- Left Horse -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,27 C50,29 52,32 53,35 L52,39 C50,38 48,35 48,32 C47,30 46,29 48,27 Z" />
+    <!-- Right Horse -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M72,27 C70,29 68,32 67,35 L68,39 C70,38 72,35 72,32 C73,30 74,29 72,27 Z" />
+
+    <!-- Green Flora Base & Red Motto Ribbon -->
+    <path
+        android:fillColor="#16A34A"
+        android:pathData="M46,41 C52,43 68,43 74,41 L72,44 C66,45 54,45 48,44 Z" />
+    <path
+        android:fillColor="#DC2626"
+        android:pathData="M50,44.5 L70,44.5 L68,46.5 L52,46.5 Z" />
+
+    <!-- Prominent Lowercase White Letters: 's' 'o' 'n' -->
+    <!-- 's' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,63 C35,57.5 40,55 45,55 C49.5,55 52,57 52,60.5 L47.5,60.5 C47.5,58.8 46.5,57.8 45,57.8 C43.2,57.8 42,58.8 42,60.2 C42,65 53,62 53,70.5 C53,75 49,77.5 44.5,77.5 C39,77.5 35.5,74.5 35.5,70.5 L40.2,70.5 C40.2,72.8 42,74.2 44.5,74.2 C46.8,74.2 48,73 48,71.2 C48,66 35,68.5 35,63 Z" />
+
+    <!-- 'o' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,66 C54,59.5 59,55 66,55 C73,55 78,59.5 78,66 C78,72.5 73,77.5 66,77.5 C59,77.5 54,72.5 54,66 Z M60.8,66 C60.8,70 63,73.5 66,73.5 C69,73.5 71.2,70 71.2,66 C71.2,62 69,59 66,59 C63,59 60.8,62 60.8,66 Z" />
+
+    <!-- 'n' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,55.5 L86,55.5 L86,59.5 C88,56.5 91.5,55 95,55 C100,55 103,58.5 103,64 L103,77 L97,77 L97,65 C97,61.5 95.5,59.5 93,59.5 C90,59.5 86.5,62 86.5,66 L86.5,77 L80,77 Z" />
+
+    <!-- Dynamic Golden-Yellow Checkmark Swoosh across 'son' -->
+    <path
+        android:strokeColor="#FBBF24"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000"
+        android:pathData="M48,72 L62,86 L98,54" />
+
+    <!-- Lower Banner: "...in pursuit of standards and quality" -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M26,92 C42,100 78,100 94,92 L92,98 C78,105 42,105 28,98 Z" />
+
+</vector>
